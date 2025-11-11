@@ -1,0 +1,303 @@
+,,,Year,2021,2021
+,,,Measures,Number of injured,Number of fatalities
+Road Surface,Collision Sev,Weather,Speed limit,,
+"Dry, normal",Fatal collisions,Clear and sunny,Less than 40 km per hour,2,7
+"Dry, normal",Fatal collisions,Clear and sunny,40 km per hour,7,29
+"Dry, normal",Fatal collisions,Clear and sunny,50 km per hour,89,209
+"Dry, normal",Fatal collisions,Clear and sunny,60 km per hour,53,104
+"Dry, normal",Fatal collisions,Clear and sunny,80 km per hour,174,224
+"Dry, normal",Fatal collisions,Clear and sunny,100 km per hour,106,177
+"Dry, normal",Fatal collisions,"Overcast, cloudy but no precipitation",Less than 40 km per hour,0,2
+"Dry, normal",Fatal collisions,"Overcast, cloudy but no precipitation",40 km per hour,0,1
+"Dry, normal",Fatal collisions,"Overcast, cloudy but no precipitation",50 km per hour,11,21
+"Dry, normal",Fatal collisions,"Overcast, cloudy but no precipitation",60 km per hour,1,2
+"Dry, normal",Fatal collisions,"Overcast, cloudy but no precipitation",80 km per hour,9,14
+"Dry, normal",Fatal collisions,"Overcast, cloudy but no precipitation",100 km per hour,11,23
+"Dry, normal",Fatal collisions,Raining,Less than 40 km per hour,0,0
+"Dry, normal",Fatal collisions,Raining,40 km per hour,0,0
+"Dry, normal",Fatal collisions,Raining,50 km per hour,0,0
+"Dry, normal",Fatal collisions,Raining,60 km per hour,0,0
+"Dry, normal",Fatal collisions,Raining,80 km per hour,2,1
+"Dry, normal",Fatal collisions,Raining,100 km per hour,0,0
+"Dry, normal",Fatal collisions,"Snowing, not including drifting snow",Less than 40 km per hour,0,0
+"Dry, normal",Fatal collisions,"Snowing, not including drifting snow",40 km per hour,0,0
+"Dry, normal",Fatal collisions,"Snowing, not including drifting snow",50 km per hour,0,0
+"Dry, normal",Fatal collisions,"Snowing, not including drifting snow",60 km per hour,0,0
+"Dry, normal",Fatal collisions,"Snowing, not including drifting snow",80 km per hour,0,0
+"Dry, normal",Fatal collisions,"Snowing, not including drifting snow",100 km per hour,0,0
+"Dry, normal",Fatal collisions,"Freezing rain, sleet, hail",Less than 40 km per hour,0,0
+"Dry, normal",Fatal collisions,"Freezing rain, sleet, hail",40 km per hour,0,0
+"Dry, normal",Fatal collisions,"Freezing rain, sleet, hail",50 km per hour,0,0
+"Dry, normal",Fatal collisions,"Freezing rain, sleet, hail",60 km per hour,0,0
+"Dry, normal",Fatal collisions,"Freezing rain, sleet, hail",80 km per hour,0,0
+"Dry, normal",Fatal collisions,"Freezing rain, sleet, hail",100 km per hour,0,0
+"Dry, normal",Injury collisions,Clear and sunny,Less than 40 km per hour,1396,0
+"Dry, normal",Injury collisions,Clear and sunny,40 km per hour,3370,0
+"Dry, normal",Injury collisions,Clear and sunny,50 km per hour,25797,0
+"Dry, normal",Injury collisions,Clear and sunny,60 km per hour,7613,0
+"Dry, normal",Injury collisions,Clear and sunny,80 km per hour,6305,0
+"Dry, normal",Injury collisions,Clear and sunny,100 km per hour,5384,0
+"Dry, normal",Injury collisions,"Overcast, cloudy but no precipitation",Less than 40 km per hour,172,0
+"Dry, normal",Injury collisions,"Overcast, cloudy but no precipitation",40 km per hour,245,0
+"Dry, normal",Injury collisions,"Overcast, cloudy but no precipitation",50 km per hour,2707,0
+"Dry, normal",Injury collisions,"Overcast, cloudy but no precipitation",60 km per hour,464,0
+"Dry, normal",Injury collisions,"Overcast, cloudy but no precipitation",80 km per hour,484,0
+"Dry, normal",Injury collisions,"Overcast, cloudy but no precipitation",100 km per hour,668,0
+"Dry, normal",Injury collisions,Raining,Less than 40 km per hour,5,0
+"Dry, normal",Injury collisions,Raining,40 km per hour,2,0
+"Dry, normal",Injury collisions,Raining,50 km per hour,43,0
+"Dry, normal",Injury collisions,Raining,60 km per hour,8,0
+"Dry, normal",Injury collisions,Raining,80 km per hour,7,0
+"Dry, normal",Injury collisions,Raining,100 km per hour,9,0
+"Dry, normal",Injury collisions,"Snowing, not including drifting snow",Less than 40 km per hour,0,0
+"Dry, normal",Injury collisions,"Snowing, not including drifting snow",40 km per hour,0,0
+"Dry, normal",Injury collisions,"Snowing, not including drifting snow",50 km per hour,6,0
+"Dry, normal",Injury collisions,"Snowing, not including drifting snow",60 km per hour,2,0
+"Dry, normal",Injury collisions,"Snowing, not including drifting snow",80 km per hour,5,0
+"Dry, normal",Injury collisions,"Snowing, not including drifting snow",100 km per hour,3,0
+"Dry, normal",Injury collisions,"Freezing rain, sleet, hail",Less than 40 km per hour,0,0
+"Dry, normal",Injury collisions,"Freezing rain, sleet, hail",40 km per hour,0,0
+"Dry, normal",Injury collisions,"Freezing rain, sleet, hail",50 km per hour,0,0
+"Dry, normal",Injury collisions,"Freezing rain, sleet, hail",60 km per hour,0,0
+"Dry, normal",Injury collisions,"Freezing rain, sleet, hail",80 km per hour,0,0
+"Dry, normal",Injury collisions,"Freezing rain, sleet, hail",100 km per hour,0,0
+Wet,Fatal collisions,Clear and sunny,Less than 40 km per hour,0,0
+Wet,Fatal collisions,Clear and sunny,40 km per hour,1,2
+Wet,Fatal collisions,Clear and sunny,50 km per hour,7,13
+Wet,Fatal collisions,Clear and sunny,60 km per hour,0,4
+Wet,Fatal collisions,Clear and sunny,80 km per hour,7,11
+Wet,Fatal collisions,Clear and sunny,100 km per hour,6,6
+Wet,Fatal collisions,"Overcast, cloudy but no precipitation",Less than 40 km per hour,0,1
+Wet,Fatal collisions,"Overcast, cloudy but no precipitation",40 km per hour,0,0
+Wet,Fatal collisions,"Overcast, cloudy but no precipitation",50 km per hour,6,12
+Wet,Fatal collisions,"Overcast, cloudy but no precipitation",60 km per hour,0,2
+Wet,Fatal collisions,"Overcast, cloudy but no precipitation",80 km per hour,6,6
+Wet,Fatal collisions,"Overcast, cloudy but no precipitation",100 km per hour,0,4
+Wet,Fatal collisions,Raining,Less than 40 km per hour,1,1
+Wet,Fatal collisions,Raining,40 km per hour,0,2
+Wet,Fatal collisions,Raining,50 km per hour,8,26
+Wet,Fatal collisions,Raining,60 km per hour,11,11
+Wet,Fatal collisions,Raining,80 km per hour,11,21
+Wet,Fatal collisions,Raining,100 km per hour,10,11
+Wet,Fatal collisions,"Snowing, not including drifting snow",Less than 40 km per hour,0,0
+Wet,Fatal collisions,"Snowing, not including drifting snow",40 km per hour,0,0
+Wet,Fatal collisions,"Snowing, not including drifting snow",50 km per hour,0,2
+Wet,Fatal collisions,"Snowing, not including drifting snow",60 km per hour,0,1
+Wet,Fatal collisions,"Snowing, not including drifting snow",80 km per hour,3,3
+Wet,Fatal collisions,"Snowing, not including drifting snow",100 km per hour,1,1
+Wet,Fatal collisions,"Freezing rain, sleet, hail",Less than 40 km per hour,0,0
+Wet,Fatal collisions,"Freezing rain, sleet, hail",40 km per hour,0,0
+Wet,Fatal collisions,"Freezing rain, sleet, hail",50 km per hour,0,0
+Wet,Fatal collisions,"Freezing rain, sleet, hail",60 km per hour,0,1
+Wet,Fatal collisions,"Freezing rain, sleet, hail",80 km per hour,1,1
+Wet,Fatal collisions,"Freezing rain, sleet, hail",100 km per hour,0,0
+Wet,Injury collisions,Clear and sunny,Less than 40 km per hour,70,0
+Wet,Injury collisions,Clear and sunny,40 km per hour,199,0
+Wet,Injury collisions,Clear and sunny,50 km per hour,1517,0
+Wet,Injury collisions,Clear and sunny,60 km per hour,423,0
+Wet,Injury collisions,Clear and sunny,80 km per hour,339,0
+Wet,Injury collisions,Clear and sunny,100 km per hour,250,0
+Wet,Injury collisions,"Overcast, cloudy but no precipitation",Less than 40 km per hour,49,0
+Wet,Injury collisions,"Overcast, cloudy but no precipitation",40 km per hour,66,0
+Wet,Injury collisions,"Overcast, cloudy but no precipitation",50 km per hour,1055,0
+Wet,Injury collisions,"Overcast, cloudy but no precipitation",60 km per hour,182,0
+Wet,Injury collisions,"Overcast, cloudy but no precipitation",80 km per hour,170,0
+Wet,Injury collisions,"Overcast, cloudy but no precipitation",100 km per hour,175,0
+Wet,Injury collisions,Raining,Less than 40 km per hour,165,0
+Wet,Injury collisions,Raining,40 km per hour,394,0
+Wet,Injury collisions,Raining,50 km per hour,3340,0
+Wet,Injury collisions,Raining,60 km per hour,988,0
+Wet,Injury collisions,Raining,80 km per hour,708,0
+Wet,Injury collisions,Raining,100 km per hour,781,0
+Wet,Injury collisions,"Snowing, not including drifting snow",Less than 40 km per hour,9,0
+Wet,Injury collisions,"Snowing, not including drifting snow",40 km per hour,25,0
+Wet,Injury collisions,"Snowing, not including drifting snow",50 km per hour,216,0
+Wet,Injury collisions,"Snowing, not including drifting snow",60 km per hour,83,0
+Wet,Injury collisions,"Snowing, not including drifting snow",80 km per hour,61,0
+Wet,Injury collisions,"Snowing, not including drifting snow",100 km per hour,47,0
+Wet,Injury collisions,"Freezing rain, sleet, hail",Less than 40 km per hour,0,0
+Wet,Injury collisions,"Freezing rain, sleet, hail",40 km per hour,3,0
+Wet,Injury collisions,"Freezing rain, sleet, hail",50 km per hour,18,0
+Wet,Injury collisions,"Freezing rain, sleet, hail",60 km per hour,4,0
+Wet,Injury collisions,"Freezing rain, sleet, hail",80 km per hour,5,0
+Wet,Injury collisions,"Freezing rain, sleet, hail",100 km per hour,4,0
+"Snow (fresh, loose snow)",Fatal collisions,Clear and sunny,Less than 40 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,Clear and sunny,40 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,Clear and sunny,50 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,Clear and sunny,60 km per hour,0,1
+"Snow (fresh, loose snow)",Fatal collisions,Clear and sunny,80 km per hour,1,1
+"Snow (fresh, loose snow)",Fatal collisions,Clear and sunny,100 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Overcast, cloudy but no precipitation",Less than 40 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Overcast, cloudy but no precipitation",40 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Overcast, cloudy but no precipitation",50 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Overcast, cloudy but no precipitation",60 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Overcast, cloudy but no precipitation",80 km per hour,1,2
+"Snow (fresh, loose snow)",Fatal collisions,"Overcast, cloudy but no precipitation",100 km per hour,2,1
+"Snow (fresh, loose snow)",Fatal collisions,Raining,Less than 40 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,Raining,40 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,Raining,50 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,Raining,60 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,Raining,80 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,Raining,100 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Snowing, not including drifting snow",Less than 40 km per hour,0,1
+"Snow (fresh, loose snow)",Fatal collisions,"Snowing, not including drifting snow",40 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Snowing, not including drifting snow",50 km per hour,0,3
+"Snow (fresh, loose snow)",Fatal collisions,"Snowing, not including drifting snow",60 km per hour,0,1
+"Snow (fresh, loose snow)",Fatal collisions,"Snowing, not including drifting snow",80 km per hour,2,3
+"Snow (fresh, loose snow)",Fatal collisions,"Snowing, not including drifting snow",100 km per hour,5,4
+"Snow (fresh, loose snow)",Fatal collisions,"Freezing rain, sleet, hail",Less than 40 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Freezing rain, sleet, hail",40 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Freezing rain, sleet, hail",50 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Freezing rain, sleet, hail",60 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Freezing rain, sleet, hail",80 km per hour,0,0
+"Snow (fresh, loose snow)",Fatal collisions,"Freezing rain, sleet, hail",100 km per hour,0,0
+"Snow (fresh, loose snow)",Injury collisions,Clear and sunny,Less than 40 km per hour,37,0
+"Snow (fresh, loose snow)",Injury collisions,Clear and sunny,40 km per hour,51,0
+"Snow (fresh, loose snow)",Injury collisions,Clear and sunny,50 km per hour,350,0
+"Snow (fresh, loose snow)",Injury collisions,Clear and sunny,60 km per hour,98,0
+"Snow (fresh, loose snow)",Injury collisions,Clear and sunny,80 km per hour,74,0
+"Snow (fresh, loose snow)",Injury collisions,Clear and sunny,100 km per hour,30,0
+"Snow (fresh, loose snow)",Injury collisions,"Overcast, cloudy but no precipitation",Less than 40 km per hour,11,0
+"Snow (fresh, loose snow)",Injury collisions,"Overcast, cloudy but no precipitation",40 km per hour,12,0
+"Snow (fresh, loose snow)",Injury collisions,"Overcast, cloudy but no precipitation",50 km per hour,131,0
+"Snow (fresh, loose snow)",Injury collisions,"Overcast, cloudy but no precipitation",60 km per hour,44,0
+"Snow (fresh, loose snow)",Injury collisions,"Overcast, cloudy but no precipitation",80 km per hour,39,0
+"Snow (fresh, loose snow)",Injury collisions,"Overcast, cloudy but no precipitation",100 km per hour,23,0
+"Snow (fresh, loose snow)",Injury collisions,Raining,Less than 40 km per hour,1,0
+"Snow (fresh, loose snow)",Injury collisions,Raining,40 km per hour,1,0
+"Snow (fresh, loose snow)",Injury collisions,Raining,50 km per hour,7,0
+"Snow (fresh, loose snow)",Injury collisions,Raining,60 km per hour,0,0
+"Snow (fresh, loose snow)",Injury collisions,Raining,80 km per hour,4,0
+"Snow (fresh, loose snow)",Injury collisions,Raining,100 km per hour,3,0
+"Snow (fresh, loose snow)",Injury collisions,"Snowing, not including drifting snow",Less than 40 km per hour,41,0
+"Snow (fresh, loose snow)",Injury collisions,"Snowing, not including drifting snow",40 km per hour,59,0
+"Snow (fresh, loose snow)",Injury collisions,"Snowing, not including drifting snow",50 km per hour,694,0
+"Snow (fresh, loose snow)",Injury collisions,"Snowing, not including drifting snow",60 km per hour,203,0
+"Snow (fresh, loose snow)",Injury collisions,"Snowing, not including drifting snow",80 km per hour,341,0
+"Snow (fresh, loose snow)",Injury collisions,"Snowing, not including drifting snow",100 km per hour,363,0
+"Snow (fresh, loose snow)",Injury collisions,"Freezing rain, sleet, hail",Less than 40 km per hour,0,0
+"Snow (fresh, loose snow)",Injury collisions,"Freezing rain, sleet, hail",40 km per hour,0,0
+"Snow (fresh, loose snow)",Injury collisions,"Freezing rain, sleet, hail",50 km per hour,3,0
+"Snow (fresh, loose snow)",Injury collisions,"Freezing rain, sleet, hail",60 km per hour,2,0
+"Snow (fresh, loose snow)",Injury collisions,"Freezing rain, sleet, hail",80 km per hour,2,0
+"Snow (fresh, loose snow)",Injury collisions,"Freezing rain, sleet, hail",100 km per hour,4,0
+"Slush, wet snow",Fatal collisions,Clear and sunny,Less than 40 km per hour,0,0
+"Slush, wet snow",Fatal collisions,Clear and sunny,40 km per hour,0,0
+"Slush, wet snow",Fatal collisions,Clear and sunny,50 km per hour,0,0
+"Slush, wet snow",Fatal collisions,Clear and sunny,60 km per hour,0,0
+"Slush, wet snow",Fatal collisions,Clear and sunny,80 km per hour,1,1
+"Slush, wet snow",Fatal collisions,Clear and sunny,100 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Overcast, cloudy but no precipitation",Less than 40 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Overcast, cloudy but no precipitation",40 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Overcast, cloudy but no precipitation",50 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Overcast, cloudy but no precipitation",60 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Overcast, cloudy but no precipitation",80 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Overcast, cloudy but no precipitation",100 km per hour,0,0
+"Slush, wet snow",Fatal collisions,Raining,Less than 40 km per hour,0,0
+"Slush, wet snow",Fatal collisions,Raining,40 km per hour,0,0
+"Slush, wet snow",Fatal collisions,Raining,50 km per hour,0,0
+"Slush, wet snow",Fatal collisions,Raining,60 km per hour,0,0
+"Slush, wet snow",Fatal collisions,Raining,80 km per hour,0,0
+"Slush, wet snow",Fatal collisions,Raining,100 km per hour,0,3
+"Slush, wet snow",Fatal collisions,"Snowing, not including drifting snow",Less than 40 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Snowing, not including drifting snow",40 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Snowing, not including drifting snow",50 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Snowing, not including drifting snow",60 km per hour,1,2
+"Slush, wet snow",Fatal collisions,"Snowing, not including drifting snow",80 km per hour,4,6
+"Slush, wet snow",Fatal collisions,"Snowing, not including drifting snow",100 km per hour,1,2
+"Slush, wet snow",Fatal collisions,"Freezing rain, sleet, hail",Less than 40 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Freezing rain, sleet, hail",40 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Freezing rain, sleet, hail",50 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Freezing rain, sleet, hail",60 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Freezing rain, sleet, hail",80 km per hour,0,0
+"Slush, wet snow",Fatal collisions,"Freezing rain, sleet, hail",100 km per hour,0,0
+"Slush, wet snow",Injury collisions,Clear and sunny,Less than 40 km per hour,8,0
+"Slush, wet snow",Injury collisions,Clear and sunny,40 km per hour,14,0
+"Slush, wet snow",Injury collisions,Clear and sunny,50 km per hour,132,0
+"Slush, wet snow",Injury collisions,Clear and sunny,60 km per hour,27,0
+"Slush, wet snow",Injury collisions,Clear and sunny,80 km per hour,45,0
+"Slush, wet snow",Injury collisions,Clear and sunny,100 km per hour,27,0
+"Slush, wet snow",Injury collisions,"Overcast, cloudy but no precipitation",Less than 40 km per hour,3,0
+"Slush, wet snow",Injury collisions,"Overcast, cloudy but no precipitation",40 km per hour,3,0
+"Slush, wet snow",Injury collisions,"Overcast, cloudy but no precipitation",50 km per hour,88,0
+"Slush, wet snow",Injury collisions,"Overcast, cloudy but no precipitation",60 km per hour,8,0
+"Slush, wet snow",Injury collisions,"Overcast, cloudy but no precipitation",80 km per hour,24,0
+"Slush, wet snow",Injury collisions,"Overcast, cloudy but no precipitation",100 km per hour,36,0
+"Slush, wet snow",Injury collisions,Raining,Less than 40 km per hour,2,0
+"Slush, wet snow",Injury collisions,Raining,40 km per hour,4,0
+"Slush, wet snow",Injury collisions,Raining,50 km per hour,13,0
+"Slush, wet snow",Injury collisions,Raining,60 km per hour,7,0
+"Slush, wet snow",Injury collisions,Raining,80 km per hour,9,0
+"Slush, wet snow",Injury collisions,Raining,100 km per hour,21,0
+"Slush, wet snow",Injury collisions,"Snowing, not including drifting snow",Less than 40 km per hour,5,0
+"Slush, wet snow",Injury collisions,"Snowing, not including drifting snow",40 km per hour,16,0
+"Slush, wet snow",Injury collisions,"Snowing, not including drifting snow",50 km per hour,151,0
+"Slush, wet snow",Injury collisions,"Snowing, not including drifting snow",60 km per hour,58,0
+"Slush, wet snow",Injury collisions,"Snowing, not including drifting snow",80 km per hour,89,0
+"Slush, wet snow",Injury collisions,"Snowing, not including drifting snow",100 km per hour,132,0
+"Slush, wet snow",Injury collisions,"Freezing rain, sleet, hail",Less than 40 km per hour,0,0
+"Slush, wet snow",Injury collisions,"Freezing rain, sleet, hail",40 km per hour,2,0
+"Slush, wet snow",Injury collisions,"Freezing rain, sleet, hail",50 km per hour,10,0
+"Slush, wet snow",Injury collisions,"Freezing rain, sleet, hail",60 km per hour,1,0
+"Slush, wet snow",Injury collisions,"Freezing rain, sleet, hail",80 km per hour,14,0
+"Slush, wet snow",Injury collisions,"Freezing rain, sleet, hail",100 km per hour,23,0
+Icy,Fatal collisions,Clear and sunny,Less than 40 km per hour,0,0
+Icy,Fatal collisions,Clear and sunny,40 km per hour,0,0
+Icy,Fatal collisions,Clear and sunny,50 km per hour,0,2
+Icy,Fatal collisions,Clear and sunny,60 km per hour,0,0
+Icy,Fatal collisions,Clear and sunny,80 km per hour,2,5
+Icy,Fatal collisions,Clear and sunny,100 km per hour,8,8
+Icy,Fatal collisions,"Overcast, cloudy but no precipitation",Less than 40 km per hour,0,1
+Icy,Fatal collisions,"Overcast, cloudy but no precipitation",40 km per hour,0,0
+Icy,Fatal collisions,"Overcast, cloudy but no precipitation",50 km per hour,0,2
+Icy,Fatal collisions,"Overcast, cloudy but no precipitation",60 km per hour,0,0
+Icy,Fatal collisions,"Overcast, cloudy but no precipitation",80 km per hour,3,1
+Icy,Fatal collisions,"Overcast, cloudy but no precipitation",100 km per hour,0,0
+Icy,Fatal collisions,Raining,Less than 40 km per hour,0,0
+Icy,Fatal collisions,Raining,40 km per hour,0,0
+Icy,Fatal collisions,Raining,50 km per hour,0,0
+Icy,Fatal collisions,Raining,60 km per hour,0,0
+Icy,Fatal collisions,Raining,80 km per hour,0,0
+Icy,Fatal collisions,Raining,100 km per hour,1,3
+Icy,Fatal collisions,"Snowing, not including drifting snow",Less than 40 km per hour,0,1
+Icy,Fatal collisions,"Snowing, not including drifting snow",40 km per hour,0,0
+Icy,Fatal collisions,"Snowing, not including drifting snow",50 km per hour,0,1
+Icy,Fatal collisions,"Snowing, not including drifting snow",60 km per hour,2,1
+Icy,Fatal collisions,"Snowing, not including drifting snow",80 km per hour,2,4
+Icy,Fatal collisions,"Snowing, not including drifting snow",100 km per hour,6,5
+Icy,Fatal collisions,"Freezing rain, sleet, hail",Less than 40 km per hour,0,0
+Icy,Fatal collisions,"Freezing rain, sleet, hail",40 km per hour,0,0
+Icy,Fatal collisions,"Freezing rain, sleet, hail",50 km per hour,0,0
+Icy,Fatal collisions,"Freezing rain, sleet, hail",60 km per hour,0,1
+Icy,Fatal collisions,"Freezing rain, sleet, hail",80 km per hour,0,0
+Icy,Fatal collisions,"Freezing rain, sleet, hail",100 km per hour,0,0
+Icy,Injury collisions,Clear and sunny,Less than 40 km per hour,56,0
+Icy,Injury collisions,Clear and sunny,40 km per hour,81,0
+Icy,Injury collisions,Clear and sunny,50 km per hour,816,0
+Icy,Injury collisions,Clear and sunny,60 km per hour,227,0
+Icy,Injury collisions,Clear and sunny,80 km per hour,259,0
+Icy,Injury collisions,Clear and sunny,100 km per hour,185,0
+Icy,Injury collisions,"Overcast, cloudy but no precipitation",Less than 40 km per hour,17,0
+Icy,Injury collisions,"Overcast, cloudy but no precipitation",40 km per hour,16,0
+Icy,Injury collisions,"Overcast, cloudy but no precipitation",50 km per hour,239,0
+Icy,Injury collisions,"Overcast, cloudy but no precipitation",60 km per hour,47,0
+Icy,Injury collisions,"Overcast, cloudy but no precipitation",80 km per hour,100,0
+Icy,Injury collisions,"Overcast, cloudy but no precipitation",100 km per hour,98,0
+Icy,Injury collisions,Raining,Less than 40 km per hour,1,0
+Icy,Injury collisions,Raining,40 km per hour,1,0
+Icy,Injury collisions,Raining,50 km per hour,18,0
+Icy,Injury collisions,Raining,60 km per hour,3,0
+Icy,Injury collisions,Raining,80 km per hour,11,0
+Icy,Injury collisions,Raining,100 km per hour,15,0
+Icy,Injury collisions,"Snowing, not including drifting snow",Less than 40 km per hour,13,0
+Icy,Injury collisions,"Snowing, not including drifting snow",40 km per hour,17,0
+Icy,Injury collisions,"Snowing, not including drifting snow",50 km per hour,262,0
+Icy,Injury collisions,"Snowing, not including drifting snow",60 km per hour,94,0
+Icy,Injury collisions,"Snowing, not including drifting snow",80 km per hour,176,0
+Icy,Injury collisions,"Snowing, not including drifting snow",100 km per hour,228,0
+Icy,Injury collisions,"Freezing rain, sleet, hail",Less than 40 km per hour,2,0
+Icy,Injury collisions,"Freezing rain, sleet, hail",40 km per hour,3,0
+Icy,Injury collisions,"Freezing rain, sleet, hail",50 km per hour,71,0
+Icy,Injury collisions,"Freezing rain, sleet, hail",60 km per hour,26,0
+Icy,Injury collisions,"Freezing rain, sleet, hail",80 km per hour,52,0
+Icy,Injury collisions,"Freezing rain, sleet, hail",100 km per hour,50,0
